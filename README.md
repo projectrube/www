@@ -9,7 +9,3 @@ The Project Rube website, built using [MkDocs](https://www.mkdocs.org/) and the 
 - `pip install mkdocs-material`
 - `mkdocs serve` - Start the live-reloading docs server.
 - `mkdocs build` - Build the documentation site.
-
-## TODO
-
-- Setup on GH Pages with the following action: https://github.com/peaceiris/actions-gh-pages

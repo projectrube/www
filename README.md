@@ -1,4 +1,4 @@
-# Project Rube 🧀 🕳 🐁
+# 🧀 Project Rube 🐁
 
 The Project Rube website, built using [MkDocs](https://www.mkdocs.org/) and the awesome [material theme](https://github.com/squidfunk/mkdocs-material).
 

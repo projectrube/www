@@ -1,4 +1,4 @@
-# Project Rube
+# 🧀 Project Rube 🐁
 
 Digital Rube Goldberg machines for learning, experimentation, and fun.
 

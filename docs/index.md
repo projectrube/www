@@ -10,7 +10,7 @@ Digital Rube Goldberg machines for learning, experimentation, and fun.
 
 ## Machines
 
-Machines (Node-RED workflows) are the glue that join thecontraptions (interfaces, sensors, etc) together.
+Machines (Node-RED workflows) are the glue that join the contraptions (interfaces, sensors, etc) together.
 
 - [Memory](https://github.com/projectrube/machines/blob/master/rube-memory.json)
 - [Treasure Hunt](https://github.com/projectrube/passcode#treasure-map)
